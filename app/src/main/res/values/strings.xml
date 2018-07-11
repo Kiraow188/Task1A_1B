@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task1A + Task1B</string>
+    <string name="name">Name:</string>
+    <string name="age">Age:</string>
+    <string name="clas">Class:</string>
+    <string name="save">SAVE</string>
+    <string-array name="spinnerItems">
+        <item>W67K</item>
+        <item>W67L</item>
+        <item>E66K</item>
+        <item>W15J</item>
+    </string-array>
+</resources>
